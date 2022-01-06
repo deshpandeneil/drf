@@ -1,0 +1,5 @@
+.idea
+venv
+drfAssessment/__pycache__
+task/__pycache__
+task/migrations
